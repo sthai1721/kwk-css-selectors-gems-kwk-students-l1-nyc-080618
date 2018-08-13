@@ -27,7 +27,7 @@
 
 /* Select the image with the class "yellow_diamond" */
 
-.yellowdiamond {
+img[alt="Diamond"]{
   position: absolute;
   z-index: 4;
   top: 325px;
