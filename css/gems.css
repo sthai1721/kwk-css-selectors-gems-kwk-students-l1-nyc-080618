@@ -1,4 +1,4 @@
-/* Select the image with class of ruby */
+/* Select the image with a id of ruby */
 
 #ruby{
   position: absolute;
@@ -18,7 +18,7 @@
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
-#sapphire{
+#sand{
   position: absolute;
   z-index: 5;
   top: 315px;
